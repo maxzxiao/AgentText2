@@ -1,0 +1,242 @@
+{
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/api-server.ts": {
+    "mtime": 1778650291.238106,
+    "hash": "a58b532f92d5a697e10074e90f132630"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/api-types.ts": {
+    "mtime": 1778650291.2383785,
+    "hash": "81e270610dd9a68fd40c86744dfe06a3"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/tsup.config.ts": {
+    "mtime": 1778650292.3694034,
+    "hash": "033f66312b39fbdcd8159ff23ddc2d3a"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/11-outgoing-manager.test.ts": {
+    "mtime": 1778650291.2376275,
+    "hash": "38451ae87045782d0d1461774c036b80"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/04-plugins.test.ts": {
+    "mtime": 1778650291.2356462,
+    "hash": "55c1d705bc4c3f00f832900ae73cb7c1"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/06-sdk-core.test.ts": {
+    "mtime": 1778650291.2363074,
+    "hash": "5c24add6c2f558cfab0251ed47bdcf0b"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/05-chain.test.ts": {
+    "mtime": 1778650291.2358196,
+    "hash": "acd5387d43b466fc252be08e0cefc9bd"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/07-integration.test.ts": {
+    "mtime": 1778650291.2366476,
+    "hash": "84496d147cc4118a09ba000201cfa049"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/02-utils.test.ts": {
+    "mtime": 1778650291.2351246,
+    "hash": "37c84593e4b62a844b5d11dfe1ade24d"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/09-search-and-attachments.test.ts": {
+    "mtime": 1778650291.2371712,
+    "hash": "ff6f4f03498139008c32204eb0fe7db8"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/setup.ts": {
+    "mtime": 1778650291.2377908,
+    "hash": "e0d064235ec553749746006cd13cfe57"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/03-database.test.ts": {
+    "mtime": 1778650291.2354162,
+    "hash": "61bd177be7afd074885eee3f453b7358"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/08-listchats.test.ts": {
+    "mtime": 1778650291.2369397,
+    "hash": "69ec4636a7196ad68102350dc3f8c764"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/01-errors.test.ts": {
+    "mtime": 1778650291.2348669,
+    "hash": "70ed792872fe8ae894347112c93919de"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/__tests__/10-message-promise.test.ts": {
+    "mtime": 1778650291.2373421,
+    "hash": "59001a254af48df7e9459e075c1b00d8"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/api-client-example.py": {
+    "mtime": 1778650291.2423904,
+    "hash": "fdc08124f81e009e6dbd046134ec9468"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/08-auto-reply.ts": {
+    "mtime": 1778650291.2412908,
+    "hash": "4b20d139caa0e5ce7a1bab2213a16bdf"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/api-sse-example.ts": {
+    "mtime": 1778650291.2429373,
+    "hash": "710d57ef3502b8c46a808fec6d57b286"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/01-send-text.ts": {
+    "mtime": 1778650291.2398891,
+    "hash": "ebcfff26c57ac2a94435c24f0f5a9e88"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/04-send-group.ts": {
+    "mtime": 1778650291.240543,
+    "hash": "615cec1438dbae42502918c8144cde75"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/05-query-messages.ts": {
+    "mtime": 1778650291.2408175,
+    "hash": "b56924b1921d715d48d45abd11f2da2b"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/06-list-chats.ts": {
+    "mtime": 1778650291.2409701,
+    "hash": "f0fe73fb52f8b7fed2800af684b3782c"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/13-watch-own-messages.ts": {
+    "mtime": 1778650291.242074,
+    "hash": "ac3b6dbd78148f5d658731381d034305"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/09-batch-send.ts": {
+    "mtime": 1778650291.2414467,
+    "hash": "8fe75152fdc3653ccaf2bf418873af46"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/api-webhook-example.ts": {
+    "mtime": 1778650291.2431574,
+    "hash": "9a332cf7661a5b97a87ab278c52f49ba"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/11-plugin.ts": {
+    "mtime": 1778650291.2417471,
+    "hash": "ab82dfa365f49412ce83f7b03fb2a810"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/02-send-image.ts": {
+    "mtime": 1778650291.2401958,
+    "hash": "e627f90a0f085dfcf628717c8d89ad71"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/api-client-example.ts": {
+    "mtime": 1778650291.2427456,
+    "hash": "708999a7efe6ceb3af7cba3516b42ab6"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/03-send-file.ts": {
+    "mtime": 1778650291.240362,
+    "hash": "890d889ebc82d1b1a1e84756d79235b6"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/07-watch-messages.ts": {
+    "mtime": 1778650291.2411397,
+    "hash": "79990f17f3561666cb489da891de88d3"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/12-error-handling.ts": {
+    "mtime": 1778650291.2419035,
+    "hash": "60c9f9ca88ff8224db521afbbda0b3a3"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/examples/10-get-sent-message.ts": {
+    "mtime": 1778650291.2416008,
+    "hash": "2f54e1634d013cc1ba8c6acdf50998c9"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/index.ts": {
+    "mtime": 1778650292.3659673,
+    "hash": "e19985d46bd5af74a162f9931af0ad1b"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/types/message.ts": {
+    "mtime": 1778650292.3675263,
+    "hash": "33bdeb179b0e0070b9accf5d1dcdb649"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/types/config.ts": {
+    "mtime": 1778650292.367261,
+    "hash": "d63bc79d58c7ce085ffce93cd8225db9"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/types/advanced.ts": {
+    "mtime": 1778650292.3670893,
+    "hash": "65567665d70a18105a09487b0f36ccbc"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/watcher.ts": {
+    "mtime": 1778650292.3653393,
+    "hash": "6ef0dd468d4d312c102ae1c6f27cb405"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/errors.ts": {
+    "mtime": 1778650292.363995,
+    "hash": "7cbceaafe12983dcb32ffb714e3f1fe4"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/outgoing-manager.ts": {
+    "mtime": 1778650292.3644838,
+    "hash": "c19f1856836f10a71a34da4c5d911b0f"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/constants.ts": {
+    "mtime": 1778650292.363383,
+    "hash": "80a3af17ca27f2d5b7d47ac535681d81"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/database.ts": {
+    "mtime": 1778650292.363746,
+    "hash": "c16adb3c76f63cb05784ce89088aa51b"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/chain.ts": {
+    "mtime": 1778650292.3631606,
+    "hash": "a4270e2bc9d53e1c3c3004075f4b1534"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/message-promise.ts": {
+    "mtime": 1778650292.364283,
+    "hash": "ae759d41a3b77b0139569cf4bf74ad1b"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/sdk.ts": {
+    "mtime": 1778650292.3648002,
+    "hash": "5f4cfc7d184cb61bd654a5d0bac76cba"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/core/sender.ts": {
+    "mtime": 1778650292.364997,
+    "hash": "5b7604136cbdc85a1606b75827e06286"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/plugins/logger.ts": {
+    "mtime": 1778650292.3668048,
+    "hash": "847a882ca504731572f337f5b54de3d4"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/plugins/core.ts": {
+    "mtime": 1778650292.3663552,
+    "hash": "5e41cee750036978e6949e453dceadbe"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/plugins/index.ts": {
+    "mtime": 1778650292.3665648,
+    "hash": "fe3d4f280327881b7b8482fada55dd14"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/utils/common.ts": {
+    "mtime": 1778650292.3682973,
+    "hash": "901669804e4c5ee270f77aa29b9cd3e3"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/utils/platform.ts": {
+    "mtime": 1778650292.3686903,
+    "hash": "880c07549034a36a12a88cbfccb9c930"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/utils/temp-file-manager.ts": {
+    "mtime": 1778650292.3690646,
+    "hash": "0c8e5fea82e37266a3bc36c0f86d417e"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/utils/download.ts": {
+    "mtime": 1778650292.368546,
+    "hash": "50b28009bfa0e890f4a1b33b7146761e"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/utils/semaphore.ts": {
+    "mtime": 1778650292.368852,
+    "hash": "8d0d968167c4d81611275bb6bbb7fd35"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/utils/applescript.ts": {
+    "mtime": 1778650292.3678958,
+    "hash": "b33626dc85c6b38d1fd7086fda1d9ff9"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/src/helpers/attachment.ts": {
+    "mtime": 1778650292.3657439,
+    "hash": "c06f9897e7e5a741486d190c7a21258e"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/API-CHEATSHEET.md": {
+    "mtime": 1778650291.231964,
+    "hash": "e9c6270b41a50563276f9d8c90dce936"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/API-README.md": {
+    "mtime": 1778650291.2337666,
+    "hash": "ddd53772c53af4553c0b79cbfe85d0f2"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/API-QUICKSTART.md": {
+    "mtime": 1778650291.2334387,
+    "hash": "e81a14c3d9cb66842bafc0e5f48d475d"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/README.md": {
+    "mtime": 1778650291.2342348,
+    "hash": "a64accc4b90c5438e31663fdbcda1a87"
+  },
+  "/Users/maxxiao/Code/AgentText2/agenttext_api/REST-API-SUMMARY.md": {
+    "mtime": 1778650291.234526,
+    "hash": "c219361768020597cd473f15d2da29f3"
+  }
+}
